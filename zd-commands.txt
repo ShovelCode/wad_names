@@ -1,0 +1,5 @@
+map map01
+map map02
+//et cetera
+nomus //mutes music
+exit //quits zdaemon
