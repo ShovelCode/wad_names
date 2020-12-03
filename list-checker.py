@@ -3,7 +3,8 @@ list_of_wads = ['maghq','exec','greenwar','pl2','ultima2b','unalign','vanguard',
                 'zdmegactf-1h_rc3',
                 'obaddon.wad',
                 'zdctf_bsides.wad',
-                'r-green']
+                'r-green',
+                '1995-dm']
 list_of_iwads = ['doom','doom1','doom2','plutonia','tnt','odib']
 pwads_for_tnt = ['tntr']
 
