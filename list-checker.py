@@ -5,10 +5,11 @@ list_of_wads = ['maghq','exec','greenwar','pl2','ultima2b','unalign','vanguard',
                 'zdctf_bsides.wad',
                 'r-green',
                 '1995-dm',
-                'brit-10']
+                'brit-10',
+                'coopbuildlm']
 list_of_iwads = ['doom','doom1','doom2','plutonia','tnt','odib']
 pwads_for_tnt = ['tntr']
 
-candidate = 'brit-10' #what to check for
+candidate = 'coopbuildlm' #what to check for
 
 print(candidate in list_of_wads)
