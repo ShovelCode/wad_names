@@ -6,11 +6,8 @@ list_of_wads = ['maghq','exec','greenwar','pl2','ultima2b','unalign','vanguard',
                 'r-green',
                 '1995-dm',
                 'brit-10',
-<<<<<<< HEAD
-                'coopbuildlm']
-=======
+                'coopbuildlm',
                 'zbludv41']
->>>>>>> a685222b8dd45e5e9bf278b9c137afc6b64b62dc
 list_of_iwads = ['doom','doom1','doom2','plutonia','tnt','odib']
 pwads_for_tnt = ['tntr']
 
