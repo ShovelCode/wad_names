@@ -9,7 +9,8 @@ list_of_wads = ['maghq','exec','greenwar','pl2','ultima2b','unalign','vanguard',
                 'coopbuildlm',
                 'zbludv41',
                 'crudream',
-                'darkgoth']
+                'darkgoth',
+                'zmas2k5_final']
 list_of_iwads = ['doom','doom1','doom2','plutonia','tnt','odib']
 pwads_for_tnt = ['tntr']
 
