@@ -10,7 +10,8 @@ list_of_wads = ['maghq','exec','greenwar','pl2','ultima2b','unalign','vanguard',
                 'zbludv41',
                 'crudream',
                 'darkgoth',
-                'zmas2k5_final']
+                'zmas2k5_final',
+                'dbzone_v7mk_k']
 list_of_iwads = ['doom','doom1','doom2','plutonia','tnt','odib']
 pwads_for_tnt = ['tntr']
 
